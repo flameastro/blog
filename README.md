@@ -1,25 +1,15 @@
-# ✨ Blog com Streamlit
+# Blog
 
-Projeto criado por [Flame77Ofc](https://github.com/Flame77Ofc) com o intuito de **aprimorar minhas habilidades em Streamlit** e me divertir programando! 🐍🚀
+## 🤷🏻 O que é
+Este é um blog desenvolvido com a intenção de aprimorar minhas habilidades - não apenas em programação, mas também em *organização* e *criatividade*. Este projeto é totalmente de graça e oferece um vasto conteúdo para os usuários explorarem.
+Muitos softwares criam *blogs pagos*, então decidi, com meus conhecimentos, criar um **blog interativo** de **graça** onde possa atingir um bom público de pessoas.
 
----
+## 🚀 O que é possível fazer
+Neste projeto, você é capaz de **explorar** e se **aventurar** no universo da **criação de blogs**. Você pode criar blogs do seu estilo com o seu conteúdo. Estes dados não são salvos num *banco de dados*, mas sim na sua *máquina local*.
 
-## 📖 Sobre o projeto
-Este é um **blog interativo**, desenvolvido totalmente em Python com [Streamlit](https://streamlit.io/).
-Aqui é possível:
-- 📝 Criar seus próprios posts
-- 📚 Ler conteúdos variados
-- 🎨 Personalizar ícones com **emojis**
-- 🚀 Explorar de forma simples e rápida pela interface web
+## 🎮 Divirta-se!
+Você pode começar a criar seus blogs próprios agora mesmo, basta **fazer download deste repositório gratuitamente pelo GitHub em [flameastro](https://www.github.com/flameastro/blog)**
 
-O foco deste projeto é **aprender na prática**, explorando conceitos como:
-- Organização de pastas e arquivos
-- Manipulação de dados (JSON e TXT)
-- Navegação entre páginas no Streamlit
-- Criação de componentes interativos
-
----
-
-## 🛠 Tecnologias utilizadas
+## 🔧 Tecnologias utilizadas
 - [Python 3](https://www.python.org/) 🐍
 - [Streamlit](https://streamlit.io/) 🎈
