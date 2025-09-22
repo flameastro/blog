@@ -13,3 +13,6 @@ Você pode começar a criar seus blogs próprios agora mesmo, basta **fazer down
 ## 🔧 Tecnologias utilizadas
 - [Python 3](https://www.python.org/) 🐍
 - [Streamlit](https://streamlit.io/) 🎈
+
+## Como instalar
+Clone o repositório utilizando o comando `git clone "https://github.com/flameastro/blog"`
